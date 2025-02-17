@@ -1,5 +1,4 @@
 # Sample-Pro
-This is my Repository
-
+This is my Repository 
 <br>
-Author - Aaditya Ramesh Sonavane
+<p>Author is Aaditya Sonavane</p>
